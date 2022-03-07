@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42135061-248a-455e-b31d-1b551764818c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework/second/src/Tesg2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FiveSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Home10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JudgeSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Max5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Med3Efficiency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Min6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi99Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi99Table2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumPira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum99Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumForPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumGauss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleLB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/max4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/.idea/fourth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/Answer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/Answer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fourth/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/second.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/BasicOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/FloatDoublePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/JavaVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/PrintQnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/RelationOperationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/WhyPrintf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second/src/sksksk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework/second/src/NumberA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/second/src/NumberA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22lcFe0QEuB9jHb3YwZEjTy1DQy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fifth" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Digit" />
+      <module name="Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiveSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FiveSquare" />
+      <module name="Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum99Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum99Table" />
+      <module name="Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
+      <module name="Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleLB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangleLB" />
+      <module name="Test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Digit" />
+        <item itemvalue="Application.TriangleLB" />
+        <item itemvalue="Application.FiveSquare" />
+        <item itemvalue="Application.Sum99Table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42135061-248a-455e-b31d-1b551764818c" name="Changes" comment="" />
+      <created>1640415512065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640415512065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Home9.java</url>
+          <line>1</line>
+          <properties class="Home9" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Median.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumWhile.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumFor2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SumGauss.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Multi99Table2.java</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Digit.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
